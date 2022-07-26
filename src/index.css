@@ -1,0 +1,59 @@
+*{
+  margin:0px;
+  padding:0px;
+  text-decoration: none;
+}
+#tab{
+  margin-top: 20px;
+  border: solid 2px blue ;
+  background-color: aqua;
+  margin-left: 300px;
+  width: 600px;
+}
+#search{
+  border-color: blue;
+  font-weight: 300px;
+  height: 30px;
+  margin-left: 730px;
+  margin-top: 10px;
+}
+#btn{
+  background-color: blue;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+}
+#btn:hover
+{
+  background-color: white;
+  color: blue;
+}
+#form{
+  margin-top: 10px;
+  padding: 40px;
+  background-color: aqua;
+  text-align: center;
+  border: solid 2px blue ;
+  width: 300px;
+  height: 500px;
+  margin-left: 400px;
+  border-radius: 5px;
+  display: grid;
+  box-shadow: 3px 3px 3px blue;
+}
+#sub{
+  background-color: blue;
+  color: white;
+  border-radius:5px;
+  width: 150px;
+  height: 30px;
+}
+#sub:hover
+{
+  background-color: white;
+  color: blue;
+}
+input{
+  border-radius: 5px;
+}
