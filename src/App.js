@@ -1,5 +1,5 @@
-import Display from './Display';
-import Add from './Add';
+import Display from './Components/Display';
+import Add from './Components/Add';
 import {BrowserRouter as Router , Switch , Route} from 'react-router-dom'
 
 

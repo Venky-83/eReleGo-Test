@@ -1,0 +1,46 @@
+{
+  "datas": [
+    {
+      "userName": "Lucky",
+      "mailId": "Lucky@gmail.com",
+      "designation": "Developer",
+      "status": "Deactive",
+      "id": 1
+    },
+    {
+      "userName": "venky",
+      "mailId": "venky@gamil.com",
+      "designation": "Developer",
+      "status": "Aactive",
+      "id": 2
+    },
+    {
+      "userName": "Yash",
+      "mailId": "Yash@gmail.com",
+      "designation": "Developer",
+      "status": "Aactive",
+      "id": 3
+    },
+    {
+      "userName": "Raj",
+      "mailId": "raj@gamil.com",
+      "designation": "Testing engg",
+      "status": "Deactive",
+      "id": 4
+    },
+    {
+      "userName": "Amith",
+      "mailId": "amith@gmail.com",
+      "designation": "Testing Engg",
+      "status": "Aactive",
+      "id": 5
+    },
+    {
+      "userName": "Kitty",
+      "mailId": "kitty@gmail.com",
+      "designation": "Developer",
+      "status": "Deactive",
+      "id": 6
+    }
+  ]
+}

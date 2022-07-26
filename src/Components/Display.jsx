@@ -1,4 +1,4 @@
-import useFetch from "./UseFetch";
+import useFetch from "./useFetch";
 import { Link } from "react-router-dom";
 import Add from "./Add";
 import { useState } from "react";
